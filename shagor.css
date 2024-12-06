@@ -45,3 +45,57 @@
     padding: 4px 24px;
     border-radius: 35px;
  }
+ .header-section {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+
+ }
+ .default-btn {
+    
+    display: inline-block;
+    background-color: #21B573;
+    color: #fff !important;
+    padding: 4px 24px;
+    border-radius: 35px;
+    text-decoration: none;
+ }
+ .hero-section {
+    height: 70vh;
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    padding-top: 64px;
+ }
+ .hero-content p {
+    color: #fd511a;
+ }
+ .hero-content h1 {
+    color: #000;
+ }
+ .hero-content h1 span {
+    color: #21B573;
+ }
+.hero-content-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.hero-content {
+    width: 45%;
+
+
+}
+.hero-img {
+    width: 55%;
+}
+.primary-descripion {
+
+}
+.secondary-descripion {
+
+}
+.img {
+    max-width: 100%;
+}
